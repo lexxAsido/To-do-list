@@ -122,7 +122,7 @@ const Footer = () => {
                 </ul>
                 <p className='flex items-center font-bold lg:mr-36 border-b border-blue-600 max-md:text-sm'>
                     <FaRegCopyright />
-                    Made By EarlyCode Alumni
+                    Made By Asido Alexandar
                 </p>
 
                 <h3 className='font-semibold max-md:text-sm mr-3'>@2024</h3>
